@@ -1,3 +1,3 @@
-# https://habijung.xyz
+# Blog Comments
 
-Blog comments by [🔮 utterances](https://utteranc.es/)
+https://habijung.xyz blog comments by [🔮 utterances](https://utteranc.es/)
